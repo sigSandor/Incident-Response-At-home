@@ -1,6 +1,6 @@
 # Incident-Response-At-home
 
-![athomeIR](https://github.com/sigsandor/Incident-Response-At-Home/assets/athomeIR.png)
+![athomeIR](assets/athomeIR.png)
 
 Introduction
 
