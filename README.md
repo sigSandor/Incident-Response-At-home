@@ -84,3 +84,19 @@ This framework includes a **critical recovery plan**, detailing:
 - Pre-configured files for Sysmon, Snort, and other tools to simplify setup.
 
 ---
+
+## 🚀 How to Contribute
+
+Want to contribute? Here's how:
+1. Fork this repository.
+2. Create a feature branch: `git checkout -b feature/my-feature`.
+3. Commit your changes: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature/my-feature`.
+5. Open a pull request!
+
+---
+## 📜 License
+
+This repository is licensed under the [LICENSE](LICENSE).
+
+---
