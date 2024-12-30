@@ -1,5 +1,9 @@
 # **To be done:**
-
+## 📊 Progress📊
+- Incident Response Tools: ⬜⬜⬜⬜⬜ (0%)
+- Privacy Enhancements: ⬜⬜⬜⬜⬜ (0%)
+- Documentation: ⬜⬜⬜⬜⬜ (0%)
+- Testing: ⬜⬜⬜⬜⬜ (0%)
 <details>
   <summary>✨ Click ✨ to view the action items</summary>
 
