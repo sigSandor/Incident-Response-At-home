@@ -86,10 +86,10 @@ This framework includes a **critical recovery plan**, detailing:
 
 ## 📦Examples and Configurations🗃️
 
-### Logs
+## Logs
 - Example log files (e.g., `syslog-example.log`, `event-log-example.xml`) for testing tools.
 
-### Configurations
+## Configurations
 - Pre-configured files for Sysmon, Snort, and other tools to simplify setup.
 
 ---
