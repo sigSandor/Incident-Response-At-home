@@ -1,4 +1,4 @@
-To be done:
+*To be done:*
 
 <details>
   <summary>Click to view the mountain of work</summary>
@@ -13,7 +13,7 @@ Welcome to the **At-Home Incident Response Framework**, a comprehensive toolkit 
 
 ---
 
-## Overview
+## Overview (very liable to change)(initial mapping)
 
 This framework is divided into multiple sections, including:
 - **Incident Detection Tools**: Tools to identify potential threats in your system.
