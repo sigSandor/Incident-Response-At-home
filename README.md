@@ -9,11 +9,14 @@
 
 # At-Home Incident Response Framework 
 
-Welcome to the **At-Home Incident Response Framework**, a comprehensive toolkit designed to help individuals and small organizations detect, respond to, and recover from cybersecurity incidents.
+Welcome to the **At-Home Incident Response Framework**, a comprehensive toolkit designed to help everyday individuals and small organizations detect, respond to, and recover from cybersecurity incidents.
 
 ---
 
-## Overview (very liable to change)(initial mapping)
+## Overview (very liable to change)(initial goals)
+
+<details>
+  <summary>✨ Click ✨ to view the Overview</summary>
 
 This framework is divided into multiple sections, including:
 - **Incident Detection Tools**: Tools to identify potential threats in your system.
@@ -26,6 +29,8 @@ This framework is divided into multiple sections, including:
 -  - teach others and self triage
 - **Awareness and Playbooks**: Guides to increase cybersecurity awareness and respond to common incidents.
 -  - guides to follow and grow out of
+
+</details>
 
 ---
 
