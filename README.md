@@ -1,7 +1,7 @@
 # **To be done:**
 ## 📊 Progress📊
-- Incident Response Tools: ⬜⬜⬜⬜⬜ (0%)
-- Privacy Enhancements: ⬜⬜⬜⬜⬜ (0%)
+- Incident Detection Tools: ⬜⬜⬜⬜⬜ (0%)
+- Privacy tools: ⬜⬜⬜⬜⬜ (0%)
 - Documentation: ⬜⬜⬜⬜⬜ (0%)
 - Testing: ⬜⬜⬜⬜⬜ (0%)
 <details>
