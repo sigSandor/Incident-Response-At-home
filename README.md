@@ -26,47 +26,44 @@ Future features you plan to add.
 
 
 
-at-home-incident-response-framework/
-├── README.md                # Main overview of the framework
-├── LICENSE                  # Repository license
-├── docs/                    # Documentation and setup guides
-│   ├── IR-playbooks/        # Step-by-step guides for incident response
-│   │   ├── phishing-tool-guide.md
-│   │   ├── vpn-setup.md
-│   │   ├── splunk-setup.md
-│   │   ├── nessus-setup.md
-│   │   ├── online-privacy-setup.md
-│   ├── recovery-plan.md     # Critical recovery checklist and USB creation guide
-│   ├── awareness/           # Security awareness and training
-│       ├── phishing-training.md
-│       ├── digital-footprint-tool.md
-│       ├── password-best-practices.md
-├── tools/                   # Scripts and utilities
-│   ├── detection/           # Incident detection tools
-│   │   ├── defender-scan.py
-│   │   ├── log-parser.py
-│   │   ├── api-call-tool.py
-│   ├── privacy/             # Privacy and health tools
-│   │   ├── os-debloat-windows.ps1
-│   │   ├── malicious-ip-blocker.py
-│   │   ├── defender-firewall-setup.ps1
-│   ├── cli-toolkit/         # Advanced CLI utilities
-│   │   ├── file-searcher.py
-│   │   ├── backup-script.py
-│   │   ├── shredder.py
-│   │   ├── health-dashboard.py
-│   ├── hygiene/             # Hygiene toolkit
-│       ├── metadata-remover.py
-│       ├── old-account-deleter.py
-│       ├── hosts-file-blocklist.txt
-├── examples/                # Example data and configurations
-│   ├── logs/                # Sample logs for testing tools
-│   │   ├── syslog-example.log
-│   │   ├── event-log-example.xml
-│   ├── config/              # Pre-configured files for various tools
-│       ├── sysmon-config.xml
-│       ├── snort-rules.conf
-├── tests/                   # Test scripts for tools
-│   ├── test_log_parser.py
-│   ├── test_backup_script.py
-│   ├── test_metadata_remover.py
+# At-Home Incident Response Framework
+
+$ README.md - Main overview of the framework  
+$ LICENSE - Repository license  
+$ docs/ - Documentation and setup guides  
+  $ IR-playbooks/ - Step-by-step guides for incident response  
+    $ phishing-tool-guide.md  
+    $ vpn-setup.md  
+    $ splunk-setup.md  
+    $ nessus-setup.md  
+    $ online-privacy-setup.md  
+  $ recovery-plan.md - Critical recovery checklist and USB creation guide  
+  $ awareness/ - Security awareness and training  
+    $ phishing-training.md  
+    $ digital-footprint-tool.md  
+    $ password-best-practices.md  
+$ tools/ - Scripts and utilities  
+  $ detection/ - Incident detection tools  
+    $ defender-scan.py  
+    $ log-parser.py  
+    $ api-call-tool.py  
+  $ privacy/ - Privacy and health tools  
+    $ os-debloat-windows.ps1  
+    $ malicious-ip-blocker.py  
+    $ defender-firewall-setup.ps1  
+  $ cli-toolkit/ - Advanced CLI utilities  
+    $ file-searcher.py  
+    $ backup-script.py  
+    $ shredder.py  
+    $ health-dashboard.py  
+  $ hygiene/ - Hygiene toolkit  
+    $ metadata-remover.py  
+    $ old-account-deleter.py  
+    $ hosts-file-blocklist.txt  
+$ examples/ - Example data and configurations  
+  $ logs/ - Sample logs for testing tools  
+    $ syslog-example.log  
+    $ event-log-example.xml  
+  $ config/ - Pre-configured files for various tools  
+    $ sysmon-config.xml  
+    $ snort-rules.conf 
