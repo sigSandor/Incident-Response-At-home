@@ -29,30 +29,30 @@ This framework is divided into multiple sections, including:
 
 ---
 
-### **Incident Detection Tools**
+###📍**Incident Detection Tools**🔧 
 - `defender-scan.py`: A basic detection tool using Microsoft Defender.
 - `log-parser.py`: Parses logs to identify anomalies.
 - `api-call-tool.py`: Makes API calls to fetch IP or domain reputation information.
 
-### **Privacy and Health Tools**
+### 📷**Privacy and Health Tools**🛑
 - `os-debloat-windows.ps1`: Removes unnecessary bloatware on Windows systems.
 - `malicious-ip-blocker.py`: Blocks malicious IP addresses.
 - `defender-firewall-setup.ps1`: Configures advanced firewall rules for better security.
 
-### **Advanced CLI Toolkit**
+### 💻**Advanced CLI Toolkit**📦
 - `file-searcher.py`: Search files and directories using regex.
 - `backup-script.py`: Creates automated, secure backups.
 - `shredder.py`: Securely deletes sensitive files.
 - `health-dashboard.py`: Monitors system health (CPU, RAM, and disk usage).
 
-### **Hygiene Toolkit**
+### 💗**Hygiene Toolkit**🚑
 - `metadata-remover.py`: Removes metadata from images and documents.
 - `old-account-deleter.py`: Helps locate and delete unused online accounts.
 - `hosts-file-blocklist.txt`: Blocks adware and malicious domains.
 
 ---
 
-## 🧠 Awareness and Playbooks
+## 🧠 Awareness and Playbooks📖
 
 ### Awareness
 - **Phishing Training Tool**: Learn to identify phishing, smishing, and vishing attempts.
@@ -66,7 +66,7 @@ This framework is divided into multiple sections, including:
 
 ---
 
-## 🔒 Recovery Plan
+## 🔒Recovery Plan📋
 
 This framework includes a **critical recovery plan**, detailing:
 - **Steps to create a recovery USB** for emergencies.
@@ -75,7 +75,7 @@ This framework includes a **critical recovery plan**, detailing:
 
 ---
 
-## 📦 Examples and Configurations
+## 📦Examples and Configurations🗃️
 
 ### Logs
 - Example log files (e.g., `syslog-example.log`, `event-log-example.xml`) for testing tools.
@@ -85,7 +85,7 @@ This framework includes a **critical recovery plan**, detailing:
 
 ---
 
-## 🚀 How to Contribute
+## 🚀How to Contribute🚀
 
 Want to contribute? Here's how:
 1. Fork this repository.
@@ -95,8 +95,8 @@ Want to contribute? Here's how:
 5. Open a pull request!
 
 ---
-## 📜 License
+## 📜License📜
 
-This repository is licensed under the [LICENSE](LICENSE).
+This repository is licensed under the MIT LICENSE.
 
 ---
