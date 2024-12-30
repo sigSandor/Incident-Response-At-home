@@ -9,7 +9,7 @@
 
 # At-Home Incident Response Framework 
 
-Welcome to the **At-Home Incident Response Framework**, a comprehensive toolkit designed to help everyday individuals and small organizations detect, respond to, and recover from cybersecurity incidents.
+Welcome to the **At-Home Incident Response Framework**, a comprehensive toolkit designed to help everyday individuals and small organizations detect, respond to, and recover from cybersecurity incidents. (At the most minimal cost)
 
 ---
 
