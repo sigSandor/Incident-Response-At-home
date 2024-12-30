@@ -1,7 +1,7 @@
-*To be done:*
+# **To be done:**
 
 <details>
-  <summary>Click to view the mountain of work</summary>
+  <summary><span style="color:blue; font-weight:bold;">Click</span> to view the mountain of work</summary>
 
   ![athomeIR](assets/athomeIR.png)
 
