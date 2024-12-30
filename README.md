@@ -1,7 +1,7 @@
 # **To be done:**
 
 <details>
-  <summary>**✨ Click ✨** to view the mountain of work</summary>
+  <summary>✨ Click ✨ to view the action items</summary>
 
   ![athomeIR](assets/athomeIR.png)
 
