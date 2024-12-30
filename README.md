@@ -29,7 +29,7 @@ This framework is divided into multiple sections, including:
 
 ---
 
-###📍**Incident Detection Tools**🔧 
+### 📍**Incident Detection Tools**🔧 
 - `defender-scan.py`: A basic detection tool using Microsoft Defender.
 - `log-parser.py`: Parses logs to identify anomalies.
 - `api-call-tool.py`: Makes API calls to fetch IP or domain reputation information.
