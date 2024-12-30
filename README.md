@@ -1,6 +1,16 @@
 # Incident-Response-At-home
 
-![athomeIR](assets/athomeIR.png)
+To be done:
+
+<details>
+  <summary>Click to view the mountain of work</summary>
+
+  ![athomeIR](assets/athomeIR.png)
+
+</details>
+
+
+
 
 Introduction
 
