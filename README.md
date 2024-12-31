@@ -5,7 +5,7 @@
 - Documentation: ⬜⬜⬜⬜⬜ (0%)
 - Testing: ⬜⬜⬜⬜⬜ (0%)
 <details>
-  <summary>✨ Click ✨ to view the action items</summary>
+  <summary> Click to view the action items</summary>
 
   ![athomeIR](assets/athomeIR.png)
 
@@ -20,7 +20,7 @@ Welcome to the **At-Home Incident Response Framework**, a comprehensive toolkit 
 ## Overview (very liable to change)(initial goals)
 
 <details>
-  <summary>✨ Click ✨ to view the Overview</summary>
+  <summary> Click to view the Overview</summary>
 
 This framework is divided into multiple sections, including:
 - **Incident Detection Tools**: Tools to identify potential threats in your system.
