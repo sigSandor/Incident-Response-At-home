@@ -17,12 +17,12 @@ Welcome to the **At-Home Incident Response Framework**, a comprehensive toolkit 
 
 ---
 
-## Overview (very liable to change)(initial goals)
+## Overview/Initial Goals
 
 <details>
   <summary> Click to view the Overview</summary>
 
-This framework is divided into multiple sections, including:
+The framework will be divided into multiple sections, including:
 - **Incident Detection Tools**: Tools to identify potential threats in your system.
 -   - ability to check health at a whim
 - **Privacy and Health Tools**: Utilities to enhance system privacy and security.
@@ -38,8 +38,10 @@ This framework is divided into multiple sections, including:
 
 ---
 
+planned scripts:
+
 ### 📍**Incident Detection Tools**🔧 
-- `defender-scan.py`: A basic detection tool using Microsoft Defender.
+- `defender-scan.py`: A basic detection tool using Microsoft Defender and more.
 - `log-parser.py`: Parses logs to identify anomalies.
 - `api-call-tool.py`: Makes API calls to fetch IP or domain reputation information.
 
